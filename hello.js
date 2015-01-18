@@ -1,4 +1,4 @@
 
-var ninja = "¡Hola Ninja!";
+var ninja = "¡Hola Ninja Video!";
 console.log(ninja);
 
